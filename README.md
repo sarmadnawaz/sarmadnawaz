@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://twitter.com/sarmadnawaz_">
-      <img src="https://img.shields.io/badge/Follow%20on-Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/Follow%20on-Twitter-black?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
 
