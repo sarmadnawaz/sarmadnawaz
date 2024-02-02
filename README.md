@@ -61,7 +61,7 @@
 
 ---
 
-### :fire: My Stats :
+### :magic_wand: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sarmadnawaz&theme=dark&background=000000)](https://git.io/streak-stats)
 
