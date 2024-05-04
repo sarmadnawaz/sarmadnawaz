@@ -3,12 +3,12 @@
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100"/>
 
   <h1>
-    Greetings Earthlings! 👽 I'm Sarmad Nawaz
+    Hello everyone! 🙋🏻‍♂️ I'm Sarmad Nawaz.
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 
   <p>
-    🚀 Aspiring Software Engineer from Pakistan, coding my way through the intergalactic web.
+  🚀 Aspiring Software Engineer coding my way through the world of software development
   </p>
 
   <div id="badges">
@@ -22,10 +22,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZqbDNpYmhra3Q4MXJmbDE5MnBiZ3N6NmI5N2R4YjFjZDhodnZiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="600" height="300"/>
-</div>
-
 ---
 
 ### 🌟 About Me
@@ -37,6 +33,8 @@
 - ⚡ Fun fact: My code has more comments than a stand-up comedy show!
 
 📬 Beam me up on [![Linkedin Badge](https://img.shields.io/badge/-Sarmad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarmad-nawaz/)
+
+---
 
 ### 💻 Languages and Tools
 
